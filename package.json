@@ -1,0 +1,11 @@
+{
+  "name": "ambiance",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Ubuntu Ambiance styled theme",
+  "repository": "https://github.com/cybolic/atom-ambiance",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
